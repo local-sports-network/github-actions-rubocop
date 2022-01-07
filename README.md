@@ -9,7 +9,7 @@ Lint your Ruby code in parallel to your builds.
 
 ## How it works
 
-- Ruby 2.6.5
+- Ruby 3.1.0
 - Rubocop + Rubocop Performance
 
 
